@@ -1,2 +1,1 @@
-my second read me
-UPDATED TODAY
+my second read me was updated by me
